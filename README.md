@@ -1,3 +1,8 @@
+<p align="center">
+  🇺🇸 <a href="README.md"><b>English</b></a> |
+  🇪🇸 <a href="README_ES.md">Español</a>
+</p>
+
 # Simple `C` Command
 
 Small shell helper to **compile and run C programs quickly** from the terminal.
