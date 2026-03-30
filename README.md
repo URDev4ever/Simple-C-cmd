@@ -95,7 +95,7 @@ c() {
 
     local output="${file%.c}"
 
-    gcc "$file" -Wall -Wextra -g -o "$output" && "./$output"
+    gcc "$file" -Wall -Wextra -lm -g -o "$output" && "./$output"
 }
 ```
 
